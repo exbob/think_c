@@ -12,15 +12,15 @@ date: Index
 <li>Version 1.05</li>
 <li>April 11th 2010</li>
 <p> </p>
-<li>翻译：Bob</li>
-<li>主页：<a href="http://www.exbob.com">Bob's Home</a></li>
-<li>Email: <a href="gexbob@gmail.com">gexbob@gmail.com</a></li>
+<li>翻译  : Bob</li>
+<li>主页  : <a href="http://www.exbob.com">Bob's Home</a></li>
+<li>Email : <a href="gexbob@gmail.com">gexbob@gmail.com</a></li>
 <li>From 2012-12-14 ，翻译中</li>
 </ul>
 
 <h2>目录</h2>
 <ul>
 	{% for rpost in paginator.posts reversed %}
-		<li><a href="{{ rpost.url }}">{{ rpost.title }}</a></li>
+		<li><a href="{{ site.url }}{{ rpost.url }}">{{ rpost.title }}</a></li>
 	{% endfor %}
 </ul>
