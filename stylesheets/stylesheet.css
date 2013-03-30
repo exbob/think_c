@@ -80,7 +80,8 @@ h1 {
 
 h2 {
   padding-bottom: 10px;
-  font-size: 32px;
+  font-size: 30px;
+  color:#444444;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
@@ -429,3 +430,10 @@ Small Device Styles
   }
 
 }
+
+
+.pagination-link            { height: 28px; margin: 10px 0 20px 0; padding: 10px 0 0; border-top: 1px dotted #d8d8d8; }
+.pagination-link a          { padding: 0 8px; line-height: 28px; }
+.pagination-link a:hover    { text-decoration: none; border-bottom: 1px solid #666; }
+.pagination-link .prev      { float: left; }
+.pagination-link .next      { float: right; }

@@ -1,0 +1,22 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         20
+
+title:            Think C
+url:              http://www.exbob.com/think_c
+
+author:
+    name:         Li Shaocheng
+    email:        gexbob@gmail.com
+    description:  "I am a Linuxer."
+
+about:            "I am Bob. I love Linux,travel and photography."
+follow:
+    email:        gexbob@gmail.com
+    github:       https://github.com/exbob
+    google:       https://plus.google.com/109165137142261504837
+
+style:            /stylesheets/stylesheet.css
+favicon:          /favicon.ico
+
+disqus:           exbob
