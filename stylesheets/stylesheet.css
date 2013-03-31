@@ -161,15 +161,15 @@ img {
 
 pre, code {
   width: 100%;
-  color: #222;
-  background-color: #fff;
+  color: #dcdcdc;
+  background-color: #303030;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
 
   border-radius: 2px;
   -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  -webkit-border-radius: 2px;f
 
 
 
@@ -259,7 +259,7 @@ form {
 }
 
 img {
-  width: 100%;
+  width: auto;
   max-width: 100%;
 }
 
