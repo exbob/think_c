@@ -9,8 +9,6 @@
 * From 2012-12-14
 * <http://www.exbob.com>
 
-![0-1.jpg](http://imgout.ph.126.net/14516024/0-1.jpg)
-
 #版权
 
 Copyright(C) 1999 Allen B. Downey
