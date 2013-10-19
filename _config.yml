@@ -3,7 +3,7 @@ pygments:         true
 paginate:         20
 
 title:            Think C
-url:              http://www.exbob.com/think_c
+url:              http://exbob.github.io/think_c
 
 author:
     name:         Li Shaocheng
