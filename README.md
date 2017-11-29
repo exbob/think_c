@@ -12,7 +12,7 @@ Translate 《How to Think Like a Computer Scientist C Version》
 * <http://prof.beuth-hochschule.de/scheffler/lehre/programmieren-in-c/>
 * Translated by Bob
 * From 2012-12-14
-* <http://www.exbob.com>
+* <http://shaocheng.li>
 
 #版权
 
